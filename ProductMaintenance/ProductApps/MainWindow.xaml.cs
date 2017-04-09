@@ -35,6 +35,7 @@ namespace ProductApps
                 cProduct.calTotalPayment();
                 totalPaymentTextBlock.Text = Convert.ToString(cProduct.TotalPayment);
                 txtbTotalIncludDelivery.Text = Convert.ToString(cProduct.TotalPayment + 25);
+                txtbTotalIncludeGST.Text = Convert.ToString((cProduct.TotalPayment + 25)*1.1m);
             }
             catch (FormatException)
             {
