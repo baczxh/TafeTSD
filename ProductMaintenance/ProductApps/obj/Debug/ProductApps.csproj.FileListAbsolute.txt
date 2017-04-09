@@ -14,3 +14,16 @@ D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintena
 D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
 D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
 D:\MyTafe\2017_S1\5TSD\Resources\Assessments\Test 1\StudentFiles\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe.config
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\obj\Debug\ProductApps.exe
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\obj\Debug\ProductApps.pdb
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\bin\Debug\ProductApps.exe
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\bin\Debug\ProductApps.pdb
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csprojResolveAssemblyReference.cache
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\obj\Debug\MainWindow.baml
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\obj\Debug\MainWindow.g.cs
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\obj\Debug\App.g.cs
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\obj\Debug\ProductApps_MarkupCompile.cache
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\obj\Debug\ProductApps.g.resources
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\obj\Debug\ProductApps.Properties.Resources.resources
+C:\5TSD_Test\TafeTSD\ProductMaintenance\ProductApps\obj\Debug\ProductApps.csproj.GenerateResource.Cache

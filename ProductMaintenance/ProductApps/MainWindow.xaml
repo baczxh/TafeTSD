@@ -1,7 +1,7 @@
 ﻿<Window x:Class="ProductApps.MainWindow"
         xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-        Title="MainWindow" Height="350" Width="525">
+        Title="MainWindow" Height="472.388" Width="681.716">
     <Grid>
         <Label Content="Product:" HorizontalAlignment="Left" Height="30" Margin="46,37,0,0" VerticalAlignment="Top" Width="61"/>
         <Label Content="Price $:" HorizontalAlignment="Left" Height="30" Margin="46,78,0,0" VerticalAlignment="Top" Width="61"/>
@@ -14,6 +14,8 @@
         <Button Name="calculateButton" Content="_Calculate" HorizontalAlignment="Left" Height="37" Margin="327,153,0,0" VerticalAlignment="Top" Width="122" Click="calculateButton_Click"/>
         <Button Name="clearButton" Content="C_lear" HorizontalAlignment="Left" Height="34" Margin="327,209,0,0" VerticalAlignment="Top" Width="122" Click="clearButton_Click"/>
         <Button Name="closeButton" Content="Cl_ose" HorizontalAlignment="Left" Height="34" Margin="327,264,0,0" VerticalAlignment="Top" Width="122" Click="closeButton_Click"/>
+        <Label Content="Total change after adding the delivery chang" HorizontalAlignment="Left" Margin="46,243,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="txtbTotalIncludDelivery" HorizontalAlignment="Left" Margin="68,274,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Height="40" Width="150"/>
 
 
     </Grid>
